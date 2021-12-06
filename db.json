@@ -1,0 +1,121 @@
+{
+  "login": [
+    {
+      "username": "유수정",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "username": "유수정",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "room": [
+    {
+      "roomname": "가",
+      "manager": "유수정",
+      "id": 1
+    },
+    {
+      "roomname": "나",
+      "manager": "유수정",
+      "id": 2
+    },
+    {
+      "roomname": "다",
+      "manager": "유수정",
+      "id": 3
+    },
+    {
+      "roomname": "라",
+      "manager": "유수정",
+      "id": 4
+    },
+    {
+      "roomname": "라",
+      "manager": "유수정",
+      "id": 5
+    },
+    {
+      "roomname": "마",
+      "manager": "유수정",
+      "id": 6
+    },
+    {
+      "roomname": "바",
+      "manager": "유수정",
+      "id": 7
+    },
+    {
+      "roomname": "하",
+      "manager": "유수정",
+      "id": 8
+    },
+    {
+      "roomname": "사",
+      "manager": "유수정",
+      "id": 9
+    },
+    {
+      "roomname": "허",
+      "manager": "유수정",
+      "id": 10
+    },
+    {
+      "roomname": "호",
+      "manager": "유수정",
+      "id": 11
+    },
+    {
+      "roomname": "휴",
+      "manager": "유수정",
+      "id": 12
+    },
+    {
+      "roomname": "햐",
+      "manager": "유수정",
+      "id": 13
+    },
+    {
+      "roomname": "노",
+      "manager": "유수정",
+      "id": 14
+    },
+    {
+      "roomname": "뇨",
+      "manager": "유수정",
+      "id": 15
+    },
+    {
+      "roomname": "갸",
+      "manager": "유수정",
+      "id": 16
+    },
+    {
+      "roomname": "뱌",
+      "manager": "유수정",
+      "id": 17
+    },
+    {
+      "roomname": "셔",
+      "manager": null,
+      "id": 18
+    },
+    {
+      "roomname": "gi",
+      "manager": null,
+      "id": 19
+    },
+    {
+      "roomname": "샤",
+      "manager": null,
+      "id": 20
+    },
+    {
+      "roomname": "셔",
+      "manager": null,
+      "id": 21
+    }
+  ]
+}
